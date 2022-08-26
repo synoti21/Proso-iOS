@@ -8,35 +8,53 @@
 
 /* Begin PBXBuildFile section */
 		0823D5DD610BF4C8911A098F /* Pods_Proso_iOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D85B76EC65DDD18676860BC /* Pods_Proso_iOS.framework */; };
-		3F03D0D628A3D0DD002BA397 /* AddLocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F03D0D528A3D0DD002BA397 /* AddLocationViewController.swift */; };
-		3F03D0D828A3DA9C002BA397 /* MakeThemeCompleteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F03D0D728A3DA9C002BA397 /* MakeThemeCompleteViewController.swift */; };
-		3F3380D928A0345000F39197 /* MakeThemeThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3380D828A0345000F39197 /* MakeThemeThirdViewController.swift */; };
-		3F3380DB28A113B500F39197 /* MakeThemeDefaultHashTagModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3380DA28A113B500F39197 /* MakeThemeDefaultHashTagModel.swift */; };
-		3F3380DD28A2040F00F39197 /* HashTagCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3380DC28A2040F00F39197 /* HashTagCollectionViewCell.swift */; };
-		3F6C16AF28A8E02F006B1717 /* RisingThemeSampleModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6C16AE28A8E02F006B1717 /* RisingThemeSampleModel.swift */; };
-		3F6C16B228A936AD006B1717 /* ThemeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6C16B128A936AD006B1717 /* ThemeCollectionViewCell.swift */; };
-		3F6C16B628AAA8EA006B1717 /* PopularThemeSampleModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6C16B528AAA8EA006B1717 /* PopularThemeSampleModel.swift */; };
-		3F6C16B828AAB87C006B1717 /* RankThemeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6C16B728AAB87C006B1717 /* RankThemeTableViewCell.swift */; };
-		3F6C16BA28AABC91006B1717 /* RankThemeDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6C16B928AABC91006B1717 /* RankThemeDataModel.swift */; };
-		3F8656BC289E5D7C000909D3 /* MakeThemeFirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8656BB289E5D7C000909D3 /* MakeThemeFirstViewController.swift */; };
-		3F9E4CED289FFBB2002DE4B5 /* MakeThemeSecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9E4CEC289FFBB2002DE4B5 /* MakeThemeSecondViewController.swift */; };
-		3FC029A928ACB7C7005397E3 /* ProvinceMeetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC029A828ACB7C7005397E3 /* ProvinceMeetViewController.swift */; };
-		3FC029AB28ACE9CD005397E3 /* ProvinceMeetTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC029AA28ACE9CD005397E3 /* ProvinceMeetTableViewCell.swift */; };
-		3FC029AD28ACEC30005397E3 /* FriendListSampleModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC029AC28ACEC30005397E3 /* FriendListSampleModel.swift */; };
-		3FC029AF28ACF61F005397E3 /* ProvinceMeetCompletedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC029AE28ACF61F005397E3 /* ProvinceMeetCompletedViewController.swift */; };
-		3FC029B328AD0CCC005397E3 /* CommonEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC029B228AD0CCC005397E3 /* CommonEnum.swift */; };
-		3FC029B528AD0CEE005397E3 /* UINavigationViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC029B428AD0CEE005397E3 /* UINavigationViewControllerExtension.swift */; };
-		3FC029B728AD0D05005397E3 /* UIViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC029B628AD0D05005397E3 /* UIViewControllerExtension.swift */; };
-		3FC029BC28AE2038005397E3 /* RisingThemeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC029BB28AE2038005397E3 /* RisingThemeTableViewCell.swift */; };
-		3FC029BE28AE2068005397E3 /* ThemeSuggestionMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC029BD28AE2068005397E3 /* ThemeSuggestionMainViewController.swift */; };
-		3FC846FD28AB51BC0020DA29 /* ThemeSuggestionSearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC846FC28AB51BC0020DA29 /* ThemeSuggestionSearchViewController.swift */; };
-		3FC846FF28AB54A60020DA29 /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC846FE28AB54A60020DA29 /* UIColorExtension.swift */; };
-		3FC8470328AB725D0020DA29 /* ThemeSearchDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC8470228AB725D0020DA29 /* ThemeSearchDataModel.swift */; };
-		3FC8470528AB72D90020DA29 /* BasicThemeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC8470428AB72D90020DA29 /* BasicThemeModel.swift */; };
-		3FC8470728AC04580020DA29 /* SearchByOrderCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC8470628AC04580020DA29 /* SearchByOrderCollectionViewCell.swift */; };
-		3FC8470928AC948F0020DA29 /* ThemeInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC8470828AC948F0020DA29 /* ThemeInfoViewController.swift */; };
-		3FD2F14F28A3ACEB00E7C0D4 /* MakeThemeFourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD2F14E28A3ACEB00E7C0D4 /* MakeThemeFourthViewController.swift */; };
-		3FD2F15128A3C99900E7C0D4 /* MakeThemeFifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD2F15028A3C99900E7C0D4 /* MakeThemeFifthViewController.swift */; };
+		3F58230A28B370D20054C081 /* RisingThemeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F58230928B370D20054C081 /* RisingThemeCell.swift */; };
+		3F58230E28B3A1380054C081 /* RisingThemeService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F58230D28B3A1380054C081 /* RisingThemeService.swift */; };
+		3F58231028B3A1E40054C081 /* ThemeRisingModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F58230F28B3A1E40054C081 /* ThemeRisingModel.swift */; };
+		3F58231928B4F5DB0054C081 /* ThemeCreateModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F58231828B4F5DB0054C081 /* ThemeCreateModel.swift */; };
+		3F58231C28B4F6690054C081 /* ThemeCreateService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F58231B28B4F6690054C081 /* ThemeCreateService.swift */; };
+		3F58231F28B5EF7E0054C081 /* ThemeBookmarkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F58231E28B5EF7E0054C081 /* ThemeBookmarkService.swift */; };
+		3F58232128B5F5950054C081 /* ThemeBookmarkModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F58232028B5F5950054C081 /* ThemeBookmarkModel.swift */; };
+		3F741AB728B1352E00581A14 /* ThemeSuggestionSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741A9628B1352E00581A14 /* ThemeSuggestionSearch.swift */; };
+		3F741AB828B1352E00581A14 /* ThemeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741A9928B1352E00581A14 /* ThemeCollectionViewCell.swift */; };
+		3F741ABB28B1352E00581A14 /* SearchByOrderCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741A9C28B1352E00581A14 /* SearchByOrderCollectionViewCell.swift */; };
+		3F741ABC28B1352E00581A14 /* ProvinceMeetTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741A9D28B1352E00581A14 /* ProvinceMeetTableViewCell.swift */; };
+		3F741ABD28B1352E00581A14 /* ThemeSuggestionMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741A9E28B1352E00581A14 /* ThemeSuggestionMain.swift */; };
+		3F741ABE28B1352E00581A14 /* ProvinceMeet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AA028B1352E00581A14 /* ProvinceMeet.swift */; };
+		3F741ABF28B1352E00581A14 /* ProvinceMeetCompleted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AA128B1352E00581A14 /* ProvinceMeetCompleted.swift */; };
+		3F741AC028B1352E00581A14 /* ThemeInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AA228B1352E00581A14 /* ThemeInfo.swift */; };
+		3F741AC128B1352E00581A14 /* ThemeSuggestionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AA428B1352E00581A14 /* ThemeSuggestionModel.swift */; };
+		3F741AC228B1352E00581A14 /* ThemeInfoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AA528B1352E00581A14 /* ThemeInfoModel.swift */; };
+		3F741AC328B1352E00581A14 /* ThemeSearchModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AA628B1352E00581A14 /* ThemeSearchModel.swift */; };
+		3F741AC428B1352E00581A14 /* FriendListSampleModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AA728B1352E00581A14 /* FriendListSampleModel.swift */; };
+		3F741AC828B1352E00581A14 /* HashTagCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AAE28B1352E00581A14 /* HashTagCollectionViewCell.swift */; };
+		3F741AC928B1352E00581A14 /* MakeThemeDefaultHashTagModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AAF28B1352E00581A14 /* MakeThemeDefaultHashTagModel.swift */; };
+		3F741ACA28B1352E00581A14 /* MakeThemeIntroduce.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AB028B1352E00581A14 /* MakeThemeIntroduce.swift */; };
+		3F741ACB28B1352E00581A14 /* MakeThemeImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AB128B1352E00581A14 /* MakeThemeImage.swift */; };
+		3F741ACC28B1352E00581A14 /* MakeThemeComplete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AB228B1352E00581A14 /* MakeThemeComplete.swift */; };
+		3F741ACE28B1352E00581A14 /* MakeThemeHashTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AB428B1352E00581A14 /* MakeThemeHashTag.swift */; };
+		3F741ACF28B1352E00581A14 /* MakeThemeTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AB528B1352E00581A14 /* MakeThemeTitle.swift */; };
+		3F741AD028B1352E00581A14 /* MakeThemePlace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AB628B1352E00581A14 /* MakeThemePlace.swift */; };
+		3F741AE428B1353800581A14 /* MyPageSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AD328B1353800581A14 /* MyPageSetting.swift */; };
+		3F741AE528B1353800581A14 /* MyPageNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AD428B1353800581A14 /* MyPageNotification.swift */; };
+		3F741AE628B1353800581A14 /* MyPageProfileChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AD528B1353800581A14 /* MyPageProfileChange.swift */; };
+		3F741AE728B1353800581A14 /* MyPageTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AD628B1353800581A14 /* MyPageTheme.swift */; };
+		3F741AE828B1353800581A14 /* ThemeDatabase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AD728B1353800581A14 /* ThemeDatabase.swift */; };
+		3F741AE928B1353800581A14 /* MyPageTheme_Kit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AD928B1353800581A14 /* MyPageTheme_Kit.swift */; };
+		3F741AEA28B1353800581A14 /* MyPageSetting_Kit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741ADA28B1353800581A14 /* MyPageSetting_Kit.swift */; };
+		3F741AEB28B1353800581A14 /* MyPageNotification_Kit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741ADB28B1353800581A14 /* MyPageNotification_Kit.swift */; };
+		3F741AEC28B1353800581A14 /* MyPageProfileChange_Kit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741ADC28B1353800581A14 /* MyPageProfileChange_Kit.swift */; };
+		3F741AED28B1353800581A14 /* OnlyThemeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741ADE28B1353800581A14 /* OnlyThemeList.swift */; };
+		3F741AEE28B1353800581A14 /* OnlyBookmarkThemeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741ADF28B1353800581A14 /* OnlyBookmarkThemeList.swift */; };
+		3F741AEF28B1353800581A14 /* MyPageThemeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AE128B1353800581A14 /* MyPageThemeModel.swift */; };
+		3F741AF028B1353800581A14 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AE228B1353800581A14 /* Theme.swift */; };
+		3F741AF128B1353800581A14 /* WrittenTheme-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AE328B1353800581A14 /* WrittenTheme-ViewModel.swift */; };
+		3F741AF328B1358000581A14 /* UIScreenExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AF228B1358000581A14 /* UIScreenExtension.swift */; };
+		3F741AF528B1370B00581A14 /* ThemeSuggestionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AF428B1370B00581A14 /* ThemeSuggestionService.swift */; };
+		3F741AF728B1371300581A14 /* ThemeInfoService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AF628B1371300581A14 /* ThemeInfoService.swift */; };
+		3F741B0028B202C300581A14 /* SearchThemeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741AFF28B202C300581A14 /* SearchThemeTableViewCell.swift */; };
+		3F741B0228B2091F00581A14 /* ThemeSearchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F741B0128B2091F00581A14 /* ThemeSearchService.swift */; };
+		3FF6C8AE28B7F15500932E8D /* Token.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF6C8AD28B7F15500932E8D /* Token.swift */; };
 		D45DE9902892AA76000C60F3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D45DE98F2892AA76000C60F3 /* AppDelegate.swift */; };
 		D45DE9922892AA76000C60F3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D45DE9912892AA76000C60F3 /* SceneDelegate.swift */; };
 		D45DE9992892AA77000C60F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D45DE9982892AA77000C60F3 /* Assets.xcassets */; };
@@ -56,7 +74,7 @@
 		D489291A289FB3A800AE73ED /* SignUpProfileImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4892919289FB3A800AE73ED /* SignUpProfileImage.swift */; };
 		D489291E289FBDAD00AE73ED /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D489291D289FBDAD00AE73ED /* MainViewController.swift */; };
 		D4892921289FD73700AE73ED /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4892920289FD73700AE73ED /* TabBarViewController.swift */; };
-		D49F036F28ABD96500E3D308 /* AddNewPlaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D49F036E28ABD96500E3D308 /* AddNewPlaceViewController.swift */; };
+		D49F036F28ABD96500E3D308 /* AddNewPlace.swift in Sources */ = {isa = PBXBuildFile; fileRef = D49F036E28ABD96500E3D308 /* AddNewPlace.swift */; };
 		D49F038128AE1DA500E3D308 /* LoginService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D49F038028AE1DA500E3D308 /* LoginService.swift */; };
 		D49F038428AE1E1A00E3D308 /* APIConstant.swift in Sources */ = {isa = PBXBuildFile; fileRef = D49F038328AE1E1A00E3D308 /* APIConstant.swift */; };
 		D49F038628AE29EB00E3D308 /* LoginModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D49F038528AE29EB00E3D308 /* LoginModel.swift */; };
@@ -68,35 +86,53 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3F03D0D528A3D0DD002BA397 /* AddLocationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddLocationViewController.swift; sourceTree = "<group>"; };
-		3F03D0D728A3DA9C002BA397 /* MakeThemeCompleteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeThemeCompleteViewController.swift; sourceTree = "<group>"; };
-		3F3380D828A0345000F39197 /* MakeThemeThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeThemeThirdViewController.swift; sourceTree = "<group>"; };
-		3F3380DA28A113B500F39197 /* MakeThemeDefaultHashTagModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeThemeDefaultHashTagModel.swift; sourceTree = "<group>"; };
-		3F3380DC28A2040F00F39197 /* HashTagCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashTagCollectionViewCell.swift; sourceTree = "<group>"; };
-		3F6C16AE28A8E02F006B1717 /* RisingThemeSampleModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RisingThemeSampleModel.swift; sourceTree = "<group>"; };
-		3F6C16B128A936AD006B1717 /* ThemeCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeCollectionViewCell.swift; sourceTree = "<group>"; };
-		3F6C16B528AAA8EA006B1717 /* PopularThemeSampleModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopularThemeSampleModel.swift; sourceTree = "<group>"; };
-		3F6C16B728AAB87C006B1717 /* RankThemeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankThemeTableViewCell.swift; sourceTree = "<group>"; };
-		3F6C16B928AABC91006B1717 /* RankThemeDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankThemeDataModel.swift; sourceTree = "<group>"; };
-		3F8656BB289E5D7C000909D3 /* MakeThemeFirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeThemeFirstViewController.swift; sourceTree = "<group>"; };
-		3F9E4CEC289FFBB2002DE4B5 /* MakeThemeSecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MakeThemeSecondViewController.swift; sourceTree = "<group>"; };
-		3FC029A828ACB7C7005397E3 /* ProvinceMeetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProvinceMeetViewController.swift; sourceTree = "<group>"; };
-		3FC029AA28ACE9CD005397E3 /* ProvinceMeetTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProvinceMeetTableViewCell.swift; sourceTree = "<group>"; };
-		3FC029AC28ACEC30005397E3 /* FriendListSampleModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendListSampleModel.swift; sourceTree = "<group>"; };
-		3FC029AE28ACF61F005397E3 /* ProvinceMeetCompletedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProvinceMeetCompletedViewController.swift; sourceTree = "<group>"; };
-		3FC029B228AD0CCC005397E3 /* CommonEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonEnum.swift; sourceTree = "<group>"; };
-		3FC029B428AD0CEE005397E3 /* UINavigationViewControllerExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UINavigationViewControllerExtension.swift; sourceTree = "<group>"; };
-		3FC029B628AD0D05005397E3 /* UIViewControllerExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewControllerExtension.swift; sourceTree = "<group>"; };
-		3FC029BB28AE2038005397E3 /* RisingThemeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RisingThemeTableViewCell.swift; sourceTree = "<group>"; };
-		3FC029BD28AE2068005397E3 /* ThemeSuggestionMainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeSuggestionMainViewController.swift; sourceTree = "<group>"; };
-		3FC846FC28AB51BC0020DA29 /* ThemeSuggestionSearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeSuggestionSearchViewController.swift; sourceTree = "<group>"; };
-		3FC846FE28AB54A60020DA29 /* UIColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
-		3FC8470228AB725D0020DA29 /* ThemeSearchDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeSearchDataModel.swift; sourceTree = "<group>"; };
-		3FC8470428AB72D90020DA29 /* BasicThemeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicThemeModel.swift; sourceTree = "<group>"; };
-		3FC8470628AC04580020DA29 /* SearchByOrderCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchByOrderCollectionViewCell.swift; sourceTree = "<group>"; };
-		3FC8470828AC948F0020DA29 /* ThemeInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeInfoViewController.swift; sourceTree = "<group>"; };
-		3FD2F14E28A3ACEB00E7C0D4 /* MakeThemeFourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeThemeFourthViewController.swift; sourceTree = "<group>"; };
-		3FD2F15028A3C99900E7C0D4 /* MakeThemeFifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeThemeFifthViewController.swift; sourceTree = "<group>"; };
+		3F58230928B370D20054C081 /* RisingThemeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RisingThemeCell.swift; sourceTree = "<group>"; };
+		3F58230D28B3A1380054C081 /* RisingThemeService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RisingThemeService.swift; sourceTree = "<group>"; };
+		3F58230F28B3A1E40054C081 /* ThemeRisingModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeRisingModel.swift; sourceTree = "<group>"; };
+		3F58231828B4F5DB0054C081 /* ThemeCreateModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeCreateModel.swift; sourceTree = "<group>"; };
+		3F58231B28B4F6690054C081 /* ThemeCreateService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeCreateService.swift; sourceTree = "<group>"; };
+		3F58231E28B5EF7E0054C081 /* ThemeBookmarkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeBookmarkService.swift; sourceTree = "<group>"; };
+		3F58232028B5F5950054C081 /* ThemeBookmarkModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeBookmarkModel.swift; sourceTree = "<group>"; };
+		3F741A9628B1352E00581A14 /* ThemeSuggestionSearch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemeSuggestionSearch.swift; sourceTree = "<group>"; };
+		3F741A9928B1352E00581A14 /* ThemeCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemeCollectionViewCell.swift; sourceTree = "<group>"; };
+		3F741A9C28B1352E00581A14 /* SearchByOrderCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchByOrderCollectionViewCell.swift; sourceTree = "<group>"; };
+		3F741A9D28B1352E00581A14 /* ProvinceMeetTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProvinceMeetTableViewCell.swift; sourceTree = "<group>"; };
+		3F741A9E28B1352E00581A14 /* ThemeSuggestionMain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemeSuggestionMain.swift; sourceTree = "<group>"; };
+		3F741AA028B1352E00581A14 /* ProvinceMeet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProvinceMeet.swift; sourceTree = "<group>"; };
+		3F741AA128B1352E00581A14 /* ProvinceMeetCompleted.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProvinceMeetCompleted.swift; sourceTree = "<group>"; };
+		3F741AA228B1352E00581A14 /* ThemeInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemeInfo.swift; sourceTree = "<group>"; };
+		3F741AA428B1352E00581A14 /* ThemeSuggestionModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemeSuggestionModel.swift; sourceTree = "<group>"; };
+		3F741AA528B1352E00581A14 /* ThemeInfoModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemeInfoModel.swift; sourceTree = "<group>"; };
+		3F741AA628B1352E00581A14 /* ThemeSearchModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemeSearchModel.swift; sourceTree = "<group>"; };
+		3F741AA728B1352E00581A14 /* FriendListSampleModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FriendListSampleModel.swift; sourceTree = "<group>"; };
+		3F741AAE28B1352E00581A14 /* HashTagCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HashTagCollectionViewCell.swift; sourceTree = "<group>"; };
+		3F741AAF28B1352E00581A14 /* MakeThemeDefaultHashTagModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MakeThemeDefaultHashTagModel.swift; sourceTree = "<group>"; };
+		3F741AB028B1352E00581A14 /* MakeThemeIntroduce.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MakeThemeIntroduce.swift; sourceTree = "<group>"; };
+		3F741AB128B1352E00581A14 /* MakeThemeImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MakeThemeImage.swift; sourceTree = "<group>"; };
+		3F741AB228B1352E00581A14 /* MakeThemeComplete.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MakeThemeComplete.swift; sourceTree = "<group>"; };
+		3F741AB428B1352E00581A14 /* MakeThemeHashTag.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MakeThemeHashTag.swift; sourceTree = "<group>"; };
+		3F741AB528B1352E00581A14 /* MakeThemeTitle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MakeThemeTitle.swift; sourceTree = "<group>"; };
+		3F741AB628B1352E00581A14 /* MakeThemePlace.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MakeThemePlace.swift; sourceTree = "<group>"; };
+		3F741AD328B1353800581A14 /* MyPageSetting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPageSetting.swift; sourceTree = "<group>"; };
+		3F741AD428B1353800581A14 /* MyPageNotification.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPageNotification.swift; sourceTree = "<group>"; };
+		3F741AD528B1353800581A14 /* MyPageProfileChange.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPageProfileChange.swift; sourceTree = "<group>"; };
+		3F741AD628B1353800581A14 /* MyPageTheme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPageTheme.swift; sourceTree = "<group>"; };
+		3F741AD728B1353800581A14 /* ThemeDatabase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemeDatabase.swift; sourceTree = "<group>"; };
+		3F741AD928B1353800581A14 /* MyPageTheme_Kit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPageTheme_Kit.swift; sourceTree = "<group>"; };
+		3F741ADA28B1353800581A14 /* MyPageSetting_Kit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPageSetting_Kit.swift; sourceTree = "<group>"; };
+		3F741ADB28B1353800581A14 /* MyPageNotification_Kit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPageNotification_Kit.swift; sourceTree = "<group>"; };
+		3F741ADC28B1353800581A14 /* MyPageProfileChange_Kit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPageProfileChange_Kit.swift; sourceTree = "<group>"; };
+		3F741ADE28B1353800581A14 /* OnlyThemeList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnlyThemeList.swift; sourceTree = "<group>"; };
+		3F741ADF28B1353800581A14 /* OnlyBookmarkThemeList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnlyBookmarkThemeList.swift; sourceTree = "<group>"; };
+		3F741AE128B1353800581A14 /* MyPageThemeModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPageThemeModel.swift; sourceTree = "<group>"; };
+		3F741AE228B1353800581A14 /* Theme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		3F741AE328B1353800581A14 /* WrittenTheme-ViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "WrittenTheme-ViewModel.swift"; sourceTree = "<group>"; };
+		3F741AF228B1358000581A14 /* UIScreenExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIScreenExtension.swift; sourceTree = "<group>"; };
+		3F741AF428B1370B00581A14 /* ThemeSuggestionService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeSuggestionService.swift; sourceTree = "<group>"; };
+		3F741AF628B1371300581A14 /* ThemeInfoService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeInfoService.swift; sourceTree = "<group>"; };
+		3F741AFF28B202C300581A14 /* SearchThemeTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchThemeTableViewCell.swift; sourceTree = "<group>"; };
+		3F741B0128B2091F00581A14 /* ThemeSearchService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeSearchService.swift; sourceTree = "<group>"; };
+		3FF6C8AD28B7F15500932E8D /* Token.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Token.swift; sourceTree = "<group>"; };
 		578893027E657D957566D666 /* Pods-Proso-iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Proso-iOS.release.xcconfig"; path = "Target Support Files/Pods-Proso-iOS/Pods-Proso-iOS.release.xcconfig"; sourceTree = "<group>"; };
 		8D85B76EC65DDD18676860BC /* Pods_Proso_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Proso_iOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D45DE98C2892AA76000C60F3 /* Proso-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Proso-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -122,7 +158,7 @@
 		D4892919289FB3A800AE73ED /* SignUpProfileImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpProfileImage.swift; sourceTree = "<group>"; };
 		D489291D289FBDAD00AE73ED /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		D4892920289FD73700AE73ED /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
-		D49F036E28ABD96500E3D308 /* AddNewPlaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNewPlaceViewController.swift; sourceTree = "<group>"; };
+		D49F036E28ABD96500E3D308 /* AddNewPlace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNewPlace.swift; sourceTree = "<group>"; };
 		D49F038028AE1DA500E3D308 /* LoginService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginService.swift; sourceTree = "<group>"; };
 		D49F038328AE1E1A00E3D308 /* APIConstant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIConstant.swift; sourceTree = "<group>"; };
 		D49F038528AE29EB00E3D308 /* LoginModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginModel.swift; sourceTree = "<group>"; };
@@ -171,111 +207,233 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		3F03D0D928A4AFB5002BA397 /* ThemeSuggestionView */ = {
+		3F58231328B4C0120054C081 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				3FC029BD28AE2068005397E3 /* ThemeSuggestionMainViewController.swift */,
-				3FC846FC28AB51BC0020DA29 /* ThemeSuggestionSearchViewController.swift */,
-				3FC029BA28AD0ED7005397E3 /* ThemeInfoView */,
-				3FC029B028AD0916005397E3 /* Cell */,
-				3F6C16B028A8E167006B1717 /* Model */,
+				3F741AA228B1352E00581A14 /* ThemeInfo.swift */,
+				3F741AA028B1352E00581A14 /* ProvinceMeet.swift */,
+				3F741AA128B1352E00581A14 /* ProvinceMeetCompleted.swift */,
 			);
-			path = ThemeSuggestionView;
+			path = View;
 			sourceTree = "<group>";
 		};
-		3F6C16B028A8E167006B1717 /* Model */ = {
+		3F58231428B4C01A0054C081 /* Cell */ = {
 			isa = PBXGroup;
 			children = (
-				3FC029B828AD0DBF005397E3 /* ThemeMainPageModel */,
-				3FC8470428AB72D90020DA29 /* BasicThemeModel.swift */,
-				3FC8470228AB725D0020DA29 /* ThemeSearchDataModel.swift */,
-				3FC029AC28ACEC30005397E3 /* FriendListSampleModel.swift */,
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		3F6E8D5D289E300000AAA5C9 /* Ahn */ = {
-			isa = PBXGroup;
-			children = (
-				3F03D0D928A4AFB5002BA397 /* ThemeSuggestionView */,
-				3F8656BD289E5D85000909D3 /* MakeThemeView */,
-			);
-			path = Ahn;
-			sourceTree = "<group>";
-		};
-		3F6E8D62289E3F2D00AAA5C9 /* HashTag */ = {
-			isa = PBXGroup;
-			children = (
-				3F3380DA28A113B500F39197 /* MakeThemeDefaultHashTagModel.swift */,
-				3F3380DC28A2040F00F39197 /* HashTagCollectionViewCell.swift */,
-			);
-			path = HashTag;
-			sourceTree = "<group>";
-		};
-		3F8656BD289E5D85000909D3 /* MakeThemeView */ = {
-			isa = PBXGroup;
-			children = (
-				3F6E8D62289E3F2D00AAA5C9 /* HashTag */,
-				3F8656BB289E5D7C000909D3 /* MakeThemeFirstViewController.swift */,
-				3F9E4CEC289FFBB2002DE4B5 /* MakeThemeSecondViewController.swift */,
-				3F3380D828A0345000F39197 /* MakeThemeThirdViewController.swift */,
-				3FD2F14E28A3ACEB00E7C0D4 /* MakeThemeFourthViewController.swift */,
-				3FD2F15028A3C99900E7C0D4 /* MakeThemeFifthViewController.swift */,
-				3F03D0D728A3DA9C002BA397 /* MakeThemeCompleteViewController.swift */,
-				3F03D0D528A3D0DD002BA397 /* AddLocationViewController.swift */,
-			);
-			path = MakeThemeView;
-			sourceTree = "<group>";
-		};
-		3FC029B028AD0916005397E3 /* Cell */ = {
-			isa = PBXGroup;
-			children = (
-				3FC029B928AD0DF6005397E3 /* ThemeMainPageCell */,
-				3FC8470628AC04580020DA29 /* SearchByOrderCollectionViewCell.swift */,
-				3FC029AA28ACE9CD005397E3 /* ProvinceMeetTableViewCell.swift */,
+				3F741A9D28B1352E00581A14 /* ProvinceMeetTableViewCell.swift */,
 			);
 			path = Cell;
 			sourceTree = "<group>";
 		};
-		3FC029B128AD0CB7005397E3 /* Common */ = {
+		3F58231528B4C01F0054C081 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				3FC846FE28AB54A60020DA29 /* UIColorExtension.swift */,
-				3FC029B228AD0CCC005397E3 /* CommonEnum.swift */,
-				3FC029B428AD0CEE005397E3 /* UINavigationViewControllerExtension.swift */,
-				3FC029B628AD0D05005397E3 /* UIViewControllerExtension.swift */,
+				3F741AA528B1352E00581A14 /* ThemeInfoModel.swift */,
 			);
-			path = Common;
+			path = Model;
 			sourceTree = "<group>";
 		};
-		3FC029B828AD0DBF005397E3 /* ThemeMainPageModel */ = {
+		3F58231628B4C0240054C081 /* Service */ = {
 			isa = PBXGroup;
 			children = (
-				3F6C16AE28A8E02F006B1717 /* RisingThemeSampleModel.swift */,
-				3F6C16B528AAA8EA006B1717 /* PopularThemeSampleModel.swift */,
-				3F6C16B928AABC91006B1717 /* RankThemeDataModel.swift */,
+				3F741AF628B1371300581A14 /* ThemeInfoService.swift */,
 			);
-			path = ThemeMainPageModel;
+			path = Service;
 			sourceTree = "<group>";
 		};
-		3FC029B928AD0DF6005397E3 /* ThemeMainPageCell */ = {
+		3F58231728B4C0530054C081 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				3FC029BB28AE2038005397E3 /* RisingThemeTableViewCell.swift */,
-				3F6C16B128A936AD006B1717 /* ThemeCollectionViewCell.swift */,
-				3F6C16B728AAB87C006B1717 /* RankThemeTableViewCell.swift */,
+				3F741AB528B1352E00581A14 /* MakeThemeTitle.swift */,
+				3F741AB028B1352E00581A14 /* MakeThemeIntroduce.swift */,
+				3F741AB428B1352E00581A14 /* MakeThemeHashTag.swift */,
+				3F741AB128B1352E00581A14 /* MakeThemeImage.swift */,
+				3F741AB628B1352E00581A14 /* MakeThemePlace.swift */,
+				D49F036E28ABD96500E3D308 /* AddNewPlace.swift */,
+				3F741AB228B1352E00581A14 /* MakeThemeComplete.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3F58231A28B4F5DF0054C081 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3F741AAF28B1352E00581A14 /* MakeThemeDefaultHashTagModel.swift */,
+				3F58231828B4F5DB0054C081 /* ThemeCreateModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3F58231D28B4F86A0054C081 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				3F58231B28B4F6690054C081 /* ThemeCreateService.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		3F741A9528B1352E00581A14 /* ThemeSuggestionView */ = {
+			isa = PBXGroup;
+			children = (
+				3F741AFE28B1711D00581A14 /* View */,
+				3F741A9728B1352E00581A14 /* Cell */,
+				3F741AA328B1352E00581A14 /* Model */,
+				3F741AF828B1371B00581A14 /* Service */,
+			);
+			path = ThemeSuggestionView;
+			sourceTree = "<group>";
+		};
+		3F741A9728B1352E00581A14 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				3F741A9828B1352E00581A14 /* ThemeMainPageCell */,
+				3F741AFF28B202C300581A14 /* SearchThemeTableViewCell.swift */,
+				3F741A9C28B1352E00581A14 /* SearchByOrderCollectionViewCell.swift */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		3F741A9828B1352E00581A14 /* ThemeMainPageCell */ = {
+			isa = PBXGroup;
+			children = (
+				3F741A9928B1352E00581A14 /* ThemeCollectionViewCell.swift */,
+				3F58230928B370D20054C081 /* RisingThemeCell.swift */,
 			);
 			path = ThemeMainPageCell;
 			sourceTree = "<group>";
 		};
-		3FC029BA28AD0ED7005397E3 /* ThemeInfoView */ = {
+		3F741A9F28B1352E00581A14 /* ThemeInfoView */ = {
 			isa = PBXGroup;
 			children = (
-				3FC8470828AC948F0020DA29 /* ThemeInfoViewController.swift */,
-				3FC029A828ACB7C7005397E3 /* ProvinceMeetViewController.swift */,
-				3FC029AE28ACF61F005397E3 /* ProvinceMeetCompletedViewController.swift */,
+				3F58231328B4C0120054C081 /* View */,
+				3F58231428B4C01A0054C081 /* Cell */,
+				3F58231528B4C01F0054C081 /* Model */,
+				3F58231628B4C0240054C081 /* Service */,
 			);
 			path = ThemeInfoView;
+			sourceTree = "<group>";
+		};
+		3F741AA328B1352E00581A14 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3F741AA428B1352E00581A14 /* ThemeSuggestionModel.swift */,
+				3F58230F28B3A1E40054C081 /* ThemeRisingModel.swift */,
+				3F741AA628B1352E00581A14 /* ThemeSearchModel.swift */,
+				3F741AA728B1352E00581A14 /* FriendListSampleModel.swift */,
+				3F58232028B5F5950054C081 /* ThemeBookmarkModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3F741AAC28B1352E00581A14 /* MakeThemeView */ = {
+			isa = PBXGroup;
+			children = (
+				3F58231A28B4F5DF0054C081 /* Model */,
+				3F58231728B4C0530054C081 /* View */,
+				3F741AAD28B1352E00581A14 /* Cell */,
+				3F58231D28B4F86A0054C081 /* Service */,
+			);
+			path = MakeThemeView;
+			sourceTree = "<group>";
+		};
+		3F741AAD28B1352E00581A14 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				3F741AAE28B1352E00581A14 /* HashTagCollectionViewCell.swift */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		3F741AD228B1353800581A14 /* MyPageSwiftUI */ = {
+			isa = PBXGroup;
+			children = (
+				3F741AD328B1353800581A14 /* MyPageSetting.swift */,
+				3F741AD428B1353800581A14 /* MyPageNotification.swift */,
+				3F741AD528B1353800581A14 /* MyPageProfileChange.swift */,
+				3F741AD628B1353800581A14 /* MyPageTheme.swift */,
+			);
+			path = MyPageSwiftUI;
+			sourceTree = "<group>";
+		};
+		3F741AD828B1353800581A14 /* MyPageUikit */ = {
+			isa = PBXGroup;
+			children = (
+				3F741AD928B1353800581A14 /* MyPageTheme_Kit.swift */,
+				3F741ADA28B1353800581A14 /* MyPageSetting_Kit.swift */,
+				3F741ADB28B1353800581A14 /* MyPageNotification_Kit.swift */,
+				3F741ADC28B1353800581A14 /* MyPageProfileChange_Kit.swift */,
+			);
+			path = MyPageUikit;
+			sourceTree = "<group>";
+		};
+		3F741ADD28B1353800581A14 /* Theme&BookmarkList */ = {
+			isa = PBXGroup;
+			children = (
+				3F741ADE28B1353800581A14 /* OnlyThemeList.swift */,
+				3F741ADF28B1353800581A14 /* OnlyBookmarkThemeList.swift */,
+			);
+			path = "Theme&BookmarkList";
+			sourceTree = "<group>";
+		};
+		3F741AE028B1353800581A14 /* ThemeModel */ = {
+			isa = PBXGroup;
+			children = (
+				3F741AE128B1353800581A14 /* MyPageThemeModel.swift */,
+				3F741AE228B1353800581A14 /* Theme.swift */,
+			);
+			path = ThemeModel;
+			sourceTree = "<group>";
+		};
+		3F741AF828B1371B00581A14 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				3F741AF428B1370B00581A14 /* ThemeSuggestionService.swift */,
+				3F58230D28B3A1380054C081 /* RisingThemeService.swift */,
+				3F741B0128B2091F00581A14 /* ThemeSearchService.swift */,
+				3F58231E28B5EF7E0054C081 /* ThemeBookmarkService.swift */,
+				3FF6C8AD28B7F15500932E8D /* Token.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		3F741AFB28B170DB00581A14 /* MyWork */ = {
+			isa = PBXGroup;
+			children = (
+				3F741A9528B1352E00581A14 /* ThemeSuggestionView */,
+				3F741A9F28B1352E00581A14 /* ThemeInfoView */,
+				3F741AAC28B1352E00581A14 /* MakeThemeView */,
+				D49F038228AE1DF300E3D308 /* NertWork */,
+				D489291F289FD72300AE73ED /* TabBarController */,
+				D4892910289E2C4100AE73ED /* Common */,
+			);
+			path = MyWork;
+			sourceTree = "<group>";
+		};
+		3F741AFD28B170FC00581A14 /* NotMyWork */ = {
+			isa = PBXGroup;
+			children = (
+				D49F037B28AE1CA300E3D308 /* Login */,
+				D489291C289FBD9400AE73ED /* MainViewControllers */,
+				D489291B289FBBE200AE73ED /* SignUpViewControllers */,
+				D4AFE60F28A12F7F00814689 /* RandomSelectedViewController */,
+				3F741AD228B1353800581A14 /* MyPageSwiftUI */,
+				3F741AD728B1353800581A14 /* ThemeDatabase.swift */,
+				3F741AD828B1353800581A14 /* MyPageUikit */,
+				3F741ADD28B1353800581A14 /* Theme&BookmarkList */,
+				3F741AE028B1353800581A14 /* ThemeModel */,
+				3F741AE328B1353800581A14 /* WrittenTheme-ViewModel.swift */,
+				D4AFE60C28A0F80800814689 /* LifeCycle */,
+			);
+			path = NotMyWork;
+			sourceTree = "<group>";
+		};
+		3F741AFE28B1711D00581A14 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3F741A9E28B1352E00581A14 /* ThemeSuggestionMain.swift */,
+				3F741A9628B1352E00581A14 /* ThemeSuggestionSearch.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 		706D623536C89205CBA9C074 /* Pods */ = {
@@ -309,12 +467,8 @@
 		D45DE98E2892AA76000C60F3 /* Proso-iOS */ = {
 			isa = PBXGroup;
 			children = (
-
-				D49F038228AE1DF300E3D308 /* NertWork */,
-				D489291F289FD72300AE73ED /* TabBarController */,
-				D4892910289E2C4100AE73ED /* Common */,
-				D489290F289E2BC500AE73ED /* Seo */,
-				D4AFE60C28A0F80800814689 /* LifeCycle */,
+				3F741AFD28B170FC00581A14 /* NotMyWork */,
+				3F741AFB28B170DB00581A14 /* MyWork */,
 				D45DE9982892AA77000C60F3 /* Assets.xcassets */,
 				D45DE99A2892AA77000C60F3 /* LaunchScreen.storyboard */,
 				D45DE99D2892AA77000C60F3 /* Info.plist */,
@@ -330,23 +484,12 @@
 			path = Header;
 			sourceTree = "<group>";
 		};
-		D489290F289E2BC500AE73ED /* Seo */ = {
-			isa = PBXGroup;
-			children = (
-				D49F037B28AE1CA300E3D308 /* Login */,
-				D49F036D28ABD94E00E3D308 /* AddNewPlace */,
-				D489291C289FBD9400AE73ED /* MainViewControllers */,
-				D489291B289FBBE200AE73ED /* SignUpViewControllers */,
-				D4AFE60F28A12F7F00814689 /* RandomSelectedViewController */,
-			);
-			path = Seo;
-			sourceTree = "<group>";
-		};
 		D4892910289E2C4100AE73ED /* Common */ = {
 			isa = PBXGroup;
 			children = (
 				D4892911289E2C5B00AE73ED /* UIColorExtension.swift */,
 				D4AFE60528A0F74400814689 /* UIViewControllerExtension.swift */,
+				3F741AF228B1358000581A14 /* UIScreenExtension.swift */,
 				D4AFE60728A0F76000814689 /* UINavigationViewControllerExtenstion.swift */,
 				D4AFE60928A0F77700814689 /* CommonEnum.swift */,
 			);
@@ -377,14 +520,6 @@
 				D4892920289FD73700AE73ED /* TabBarViewController.swift */,
 			);
 			path = TabBarController;
-			sourceTree = "<group>";
-		};
-		D49F036D28ABD94E00E3D308 /* AddNewPlace */ = {
-			isa = PBXGroup;
-			children = (
-				D49F036E28ABD96500E3D308 /* AddNewPlaceViewController.swift */,
-			);
-			path = AddNewPlace;
 			sourceTree = "<group>";
 		};
 		D49F037B28AE1CA300E3D308 /* Login */ = {
@@ -561,57 +696,73 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-
-				3FC846FD28AB51BC0020DA29 /* ThemeSuggestionSearchViewController.swift in Sources */,
-				3FC029AF28ACF61F005397E3 /* ProvinceMeetCompletedViewController.swift in Sources */,
-				3F3380D928A0345000F39197 /* MakeThemeThirdViewController.swift in Sources */,
-				3FD2F14F28A3ACEB00E7C0D4 /* MakeThemeFourthViewController.swift in Sources */,
-				3F6C16B628AAA8EA006B1717 /* PopularThemeSampleModel.swift in Sources */,
-				3FC029AD28ACEC30005397E3 /* FriendListSampleModel.swift in Sources */,
-				3FD2F15128A3C99900E7C0D4 /* MakeThemeFifthViewController.swift in Sources */,
-				3F3380DD28A2040F00F39197 /* HashTagCollectionViewCell.swift in Sources */,
-				3FC029B328AD0CCC005397E3 /* CommonEnum.swift in Sources */,
-				3F6C16B828AAB87C006B1717 /* RankThemeTableViewCell.swift in Sources */,
-				D45DE9942892AA76000C60F3 /* ViewController.swift in Sources */,
-				3FC846FF28AB54A60020DA29 /* UIColorExtension.swift in Sources */,
-				3FC8470328AB725D0020DA29 /* ThemeSearchDataModel.swift in Sources */,
-				3FC029AB28ACE9CD005397E3 /* ProvinceMeetTableViewCell.swift in Sources */,
-				3F03D0D628A3D0DD002BA397 /* AddLocationViewController.swift in Sources */,
-				3FC029A928ACB7C7005397E3 /* ProvinceMeetViewController.swift in Sources */,
-				3F9E4CED289FFBB2002DE4B5 /* MakeThemeSecondViewController.swift in Sources */,
-				3F03D0D828A3DA9C002BA397 /* MakeThemeCompleteViewController.swift in Sources */,
-				3FC029B728AD0D05005397E3 /* UIViewControllerExtension.swift in Sources */,
-				3FC8470728AC04580020DA29 /* SearchByOrderCollectionViewCell.swift in Sources */,
-				3FC8470928AC948F0020DA29 /* ThemeInfoViewController.swift in Sources */,
+				3F741AE428B1353800581A14 /* MyPageSetting.swift in Sources */,
+				3F741AED28B1353800581A14 /* OnlyThemeList.swift in Sources */,
+				3F741AEC28B1353800581A14 /* MyPageProfileChange_Kit.swift in Sources */,
+				3F741AE628B1353800581A14 /* MyPageProfileChange.swift in Sources */,
+				3F58231F28B5EF7E0054C081 /* ThemeBookmarkService.swift in Sources */,
+				3F741AEE28B1353800581A14 /* OnlyBookmarkThemeList.swift in Sources */,
+				3F58231928B4F5DB0054C081 /* ThemeCreateModel.swift in Sources */,
+				3FF6C8AE28B7F15500932E8D /* Token.swift in Sources */,
+				3F741AC028B1352E00581A14 /* ThemeInfo.swift in Sources */,
+				3F741ACF28B1352E00581A14 /* MakeThemeTitle.swift in Sources */,
+				3F741ACE28B1352E00581A14 /* MakeThemeHashTag.swift in Sources */,
+				3F741ACC28B1352E00581A14 /* MakeThemeComplete.swift in Sources */,
+				3F741AF128B1353800581A14 /* WrittenTheme-ViewModel.swift in Sources */,
+				3F58231C28B4F6690054C081 /* ThemeCreateService.swift in Sources */,
+				3F741AEF28B1353800581A14 /* MyPageThemeModel.swift in Sources */,
+				3F741AE528B1353800581A14 /* MyPageNotification.swift in Sources */,
+				3F741AD028B1352E00581A14 /* MakeThemePlace.swift in Sources */,
+				3F741AB728B1352E00581A14 /* ThemeSuggestionSearch.swift in Sources */,
 				D45DE9902892AA76000C60F3 /* AppDelegate.swift in Sources */,
-				3F8656BC289E5D7C000909D3 /* MakeThemeFirstViewController.swift in Sources */,
-				3FC8470528AB72D90020DA29 /* BasicThemeModel.swift in Sources */,
-				3F3380DB28A113B500F39197 /* MakeThemeDefaultHashTagModel.swift in Sources */,
-				3F6C16B228A936AD006B1717 /* ThemeCollectionViewCell.swift in Sources */,
-				3FC029BE28AE2068005397E3 /* ThemeSuggestionMainViewController.swift in Sources */,
-				3F6C16BA28AABC91006B1717 /* RankThemeDataModel.swift in Sources */,
-				3FC029BC28AE2038005397E3 /* RisingThemeTableViewCell.swift in Sources */,
+				3F741AC128B1352E00581A14 /* ThemeSuggestionModel.swift in Sources */,
+				3F741AEB28B1353800581A14 /* MyPageNotification_Kit.swift in Sources */,
+				3F741AE928B1353800581A14 /* MyPageTheme_Kit.swift in Sources */,
+				3F58232128B5F5950054C081 /* ThemeBookmarkModel.swift in Sources */,
+				3F741AE728B1353800581A14 /* MyPageTheme.swift in Sources */,
+				3F741ACA28B1352E00581A14 /* MakeThemeIntroduce.swift in Sources */,
+				3F741ABE28B1352E00581A14 /* ProvinceMeet.swift in Sources */,
 				D45DE9922892AA76000C60F3 /* SceneDelegate.swift in Sources */,
-				3FC029B528AD0CEE005397E3 /* UINavigationViewControllerExtension.swift in Sources */,
-				3F6C16AF28A8E02F006B1717 /* RisingThemeSampleModel.swift in Sources */,
+				3F741AF728B1371300581A14 /* ThemeInfoService.swift in Sources */,
+				3F741AC928B1352E00581A14 /* MakeThemeDefaultHashTagModel.swift in Sources */,
+				3F741AF328B1358000581A14 /* UIScreenExtension.swift in Sources */,
+				3F741ABD28B1352E00581A14 /* ThemeSuggestionMain.swift in Sources */,
+				3F741AF528B1370B00581A14 /* ThemeSuggestionService.swift in Sources */,
 				D4892918289F900600AE73ED /* SignUpNickNameViewController.swift in Sources */,
 				D4AFE60A28A0F77700814689 /* CommonEnum.swift in Sources */,
+				3F741B0028B202C300581A14 /* SearchThemeTableViewCell.swift in Sources */,
+				3F741ABB28B1352E00581A14 /* SearchByOrderCollectionViewCell.swift in Sources */,
+				3F741ABF28B1352E00581A14 /* ProvinceMeetCompleted.swift in Sources */,
 				D45DE9902892AA76000C60F3 /* AppDelegate.swift in Sources */,
 				D4AFE60828A0F76000814689 /* UINavigationViewControllerExtenstion.swift in Sources */,
 				D4AFE61128A1443600814689 /* ReviewTableViewCell.swift in Sources */,
 				D4AFE60E28A1011E00814689 /* RandomSelectedViewController.swift in Sources */,
+				3F741AC828B1352E00581A14 /* HashTagCollectionViewCell.swift in Sources */,
 				D45DE9922892AA76000C60F3 /* SceneDelegate.swift in Sources */,
+				3F741B0228B2091F00581A14 /* ThemeSearchService.swift in Sources */,
 				D49F038128AE1DA500E3D308 /* LoginService.swift in Sources */,
 				D4892916289E417B00AE73ED /* SignUpAgreementViewController.swift in Sources */,
+				3F741AC428B1352E00581A14 /* FriendListSampleModel.swift in Sources */,
 				D489291A289FB3A800AE73ED /* SignUpProfileImage.swift in Sources */,
+				3F741AEA28B1353800581A14 /* MyPageSetting_Kit.swift in Sources */,
+				3F741AC228B1352E00581A14 /* ThemeInfoModel.swift in Sources */,
+				3F741ACB28B1352E00581A14 /* MakeThemeImage.swift in Sources */,
 				D489291E289FBDAD00AE73ED /* MainViewController.swift in Sources */,
+				3F58231028B3A1E40054C081 /* ThemeRisingModel.swift in Sources */,
 				D49F038428AE1E1A00E3D308 /* APIConstant.swift in Sources */,
 				D4892914289E2D3500AE73ED /* LoginViewController.swift in Sources */,
+				3F741AE828B1353800581A14 /* ThemeDatabase.swift in Sources */,
 				D49F038628AE29EB00E3D308 /* LoginModel.swift in Sources */,
 				D4892921289FD73700AE73ED /* TabBarViewController.swift in Sources */,
 				D4AFE60628A0F74400814689 /* UIViewControllerExtension.swift in Sources */,
-				D49F036F28ABD96500E3D308 /* AddNewPlaceViewController.swift in Sources */,
+				3F741AF028B1353800581A14 /* Theme.swift in Sources */,
+				3F741ABC28B1352E00581A14 /* ProvinceMeetTableViewCell.swift in Sources */,
+				3F58230A28B370D20054C081 /* RisingThemeCell.swift in Sources */,
+				D49F036F28ABD96500E3D308 /* AddNewPlace.swift in Sources */,
+				3F741AC328B1352E00581A14 /* ThemeSearchModel.swift in Sources */,
 				D4892912289E2C5B00AE73ED /* UIColorExtension.swift in Sources */,
+				3F58230E28B3A1380054C081 /* RisingThemeService.swift in Sources */,
+				3F741AB828B1352E00581A14 /* ThemeCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
